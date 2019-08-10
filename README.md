@@ -8,3 +8,5 @@ mvn archetype:generate \
     -DgroupId=me -DartifactId=my-first-gwt -Dversion=HEAD-SNAPSHOT
 
 ```
+
+
