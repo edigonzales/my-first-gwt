@@ -12,5 +12,5 @@ mvn archetype:generate \
 mvn gwt:devmode
 ```
 
-
+localhost:8888
 
