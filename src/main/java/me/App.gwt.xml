@@ -1,5 +1,7 @@
 <module>
   <inherits name="com.google.gwt.user.User"/>
+<!--   <inherits name='com.google.gwt.user.theme.standard.Standard'/>   -->
+<inherits name="com.google.gwt.user.theme.clean.Clean"/>
   <entry-point class="me.client.App"/>
   <!--<source path="client"/>-->
   <!--<public path="public"/>-->
